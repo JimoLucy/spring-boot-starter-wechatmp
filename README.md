@@ -6,7 +6,7 @@ Spring Boot对微信公众号(订阅号、服务号)的支持
 in pom.xml add following dependency:
 
       <dependency>
-          <groupId>org.mvnsearch.wechat</groupId>
+          <groupId>com.chechebijia.wechat</groupId>
           <artifactId>spring-boot-starter-wechatmp</artifactId>
           <version>1.0.0-SNAPSHOT</version>
       </dependency>

@@ -1,4 +1,4 @@
-package org.mvnsearch.wechat.mp;
+package com.chechebijia.wechat.mp;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 

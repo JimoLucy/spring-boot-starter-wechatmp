@@ -1,4 +1,4 @@
-package org.mvnsearch.wechat;
+package com.chechebijia.wechat;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package org.mvnsearch.wechat;
+package com.chechebijia.wechat;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

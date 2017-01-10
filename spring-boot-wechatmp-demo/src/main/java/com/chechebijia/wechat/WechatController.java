@@ -1,4 +1,4 @@
-package org.mvnsearch.wechat;
+package com.chechebijia.wechat;
 
 import me.chanjar.weixin.mp.api.WxMpConfigStorage;
 import me.chanjar.weixin.mp.api.WxMpService;
